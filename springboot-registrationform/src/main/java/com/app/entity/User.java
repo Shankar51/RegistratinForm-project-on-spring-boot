@@ -22,6 +22,7 @@ public class User {
 	private String password;
 	private String cpassword;
 	private String gender;
+	
 	public String getName() {
 		return name;
 	}
